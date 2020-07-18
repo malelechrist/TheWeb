@@ -1,0 +1,15 @@
+body{
+    background-color: white;
+    display: block;
+}
+#links ul {
+list-style-type: none;
+float: right;
+}
+a {
+    text-decoration: none;
+}
+li{
+    display: inline;
+    padding: 6px; 
+}
